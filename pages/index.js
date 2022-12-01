@@ -113,7 +113,7 @@ try{    const data = await response.json()
           rel="noreferrer"
         >
           <div className="badge">
-            <p>Developed By Mashimi</p>
+            <p>ByMashimi</p>
           </div>
         </a>
       </div>
