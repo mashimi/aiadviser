@@ -5,7 +5,7 @@ export default function Document() {
     <Html>
       <Head>
         <meta property="og:title" content="Couples Ai therapy" key="title"/>
-        <meta property="og:description" content="Couples therapy by AI" key="description"/>
+        <meta property="og:description" content="Therapy by Artificial intelligence" key="description"/>
         <meta
           property="og:image"
           content="https://ibb.co/wQ7zVNL"
