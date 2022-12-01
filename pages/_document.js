@@ -4,11 +4,11 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="Freestyle Rap Writer" key="title"/>
-        <meta property="og:description" content="Create you're own rap song with the help of AI" key="description"/>
+        <meta property="og:title" content="Couples Ai therapy" key="title"/>
+        <meta property="og:description" content="Couples therapy by AI" key="description"/>
         <meta
           property="og:image"
-          content="https://cdn.buildspace.so/courses/gpt3-writer/project-og.jpg"
+          content="https://ibb.co/wQ7zVNL"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
